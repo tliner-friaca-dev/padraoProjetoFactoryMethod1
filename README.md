@@ -5,7 +5,7 @@ Este projeto trata-se da implementa&ccedil;&atilde;o do padr&atilde;o de projeto
 
 <p>Trata-se de um projeto simples, sem tratamentos de erros ou outras preocupa&ccedil;&otilde;es sen&atilde;o apenas demonstrar o Padr&atilde;o de Projetos.</p>
 
-<p>Os valores para testes s&atilde;o obtidos atrav&eacute;s de declara&ccedil;&atilde;o de objetos em mem&oacute;ria.</p>
+<p>Os valores para testes s&atilde;o obtidos atrav&eacute;s de classe de testes.</p>
 
 <p>&nbsp;</p>
 
